@@ -1,0 +1,28 @@
+<entry>
+	<hw>подда’ва|м се</hw>
+	<pos>v</pos>				
+	<gram>i</gram> 				
+	<subc>transitive</subc>	
+	<conjugation>
+		<orth>-ш</orth>
+		<type>I</type>	
+	</conjugation>
+	<struc type="Sense" n="1">
+		<trans>poddawać się</trans>
+		<alt>
+			<trans>ulegać</trans>
+		</alt>
+		<alt>
+			<trans>ustępować</trans>
+		</alt>
+	</struc>
+	<eg>
+		<q>~ това не се ~ на описание</q>
+		<transl>tego nie da się opisać</transl>
+	</eg>
+	<eg>
+		<q>~ ми се нещо</q>
+		<usg type="register">pot</usg>
+		<transl>coś idzie mi łatwo</transl>
+	</eg>
+</entry>

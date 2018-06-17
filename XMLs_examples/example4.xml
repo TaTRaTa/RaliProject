@@ -1,0 +1,42 @@
+<entry n="1">
+	<hw>под</hw>
+	<pos>praep</pos>
+	<struc type="Sense" n="1">
+		<trans>pod</trans>
+	</struc>
+	<struc type="Sense" n="2">
+		<trans>poniżej</trans>
+	</struc>
+	<eg>
+		<q>миньорите работят ~ земята</q>
+		<transl>górnicy pracują pod ziemią</transl>
+	</eg>
+	<eg>
+		<q>усмихвам се ~ мустак</q>
+		<transl>uśmiecham się pod wąsem</transl>
+	</eg>
+	<eg>
+		<q>държа нещо ~ ключ</q>
+		<transl>trzymam coś pod kluczem</transl>
+	</eg>
+	<eg>
+		<q>пет градуса ~ нулата </q>
+		<transl>pięć stopni poniżej zera</transl>
+	</eg>
+	<eg>
+		<q>парите са вложени в банката ~ лихва</q>
+		<transl>pieniądze są złożone w banku na procent</transl>
+	</eg>
+</entry>
+<entry n="2">
+	<hw>под</hw>	 
+	<alt>
+		<orth>-о’ве</orth>
+ 		<num>pl</num>
+	</alt>
+	<gen>m</gen>
+	<struc type="Sense" n="1">
+		<trans>podłoga</trans>
+		<gen>f</gen>
+	</struc>
+</entry>

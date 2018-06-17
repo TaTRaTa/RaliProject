@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry>
+	<hw>притесне’ни|е</hw>
+	<alt>
+		<orth>-я</orth>
+ 		<num>pl</num>
+	</alt>
+	<gen>n</gen>
+	<struc type="Sense" n="1">
+		<trans>ucisk</trans>
+		<gen>m</gen>
+		<alt>
+			<trans>udręczenie</trans>
+			<gen>n</gen>
+		</alt>
+		<alt>
+			<trans>uciemiężenie</trans>
+			<gen>n</gen>
+		</alt>
+		<alt>
+			<trans>przygnębienie</trans>
+			<gen>n</gen>
+		</alt>
+	</struc>
+	<eg>
+		<q>NILL</q>
+		<transl>kłopoty ma¬terialne</transl>
+	</eg>
+</entry>
